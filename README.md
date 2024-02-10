@@ -8,6 +8,7 @@ A quick repository to use when starting a new project.
 - Web Application framework : `Vite` (^5.0.8)
 - State management : `@reduxjs/toolkit` (^2.1.0)
 - State management : `@tanstack/react-query` (^5.18.1)
+- Router : `@tanstack/react-router` (^1.15.17)
 - HTTP Request : `axios` (^1.6.7)
 - Form : `react-hook-form` (^7.50.0)
 - Validation : `zod` (^3.22.4)
